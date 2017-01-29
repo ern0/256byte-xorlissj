@@ -1,7 +1,7 @@
 # XORLISSJ
 *XOR-pattern and Lissajous effect 2-in-1*
 A 256-byte MS-DOS demo by ERN0 - 2016.09.20
-Released at xxxxxxx Party, 2017
+Released at Demobit Party, 2017.01.28
 
 ## This is not a 256-byte demo
 
