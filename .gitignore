@@ -1,7 +1,6 @@
 *.OBJ
 *.MAP
 *.COM
-*.com
 tasm/*
 debug.com
 nohup.out
